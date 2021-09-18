@@ -1,9 +1,8 @@
-###                                                      Hi there 👋
+###                                                   <h1 style="text-align:center">   Hi there 👋</h1>
 
 
-**developeralamin/developeralamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Student, Web Developer and Critical Thinker!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
