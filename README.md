@@ -13,7 +13,11 @@ I'm a Student, Web Developer and Critical Thinker!
 - ⚡ Fun fact: Love Coding,Eating,playing Cricket & Football.
 
 
-Skills: Laravel,PHP,MySQL,Javascript,HTML5,CSS,Bootstrap,PSD to HTML
+ Skills:
+ <ul>
+   <li>Laravel</li>
+  </ul>
+,PHP,MySQL,Javascript,HTML5,CSS,Bootstrap,PSD to HTML
 
 - 🔭 I’m currently working on this page. 
 
