@@ -12,3 +12,29 @@ I'm a Student, Web Developer and Critical Thinker!
 - 📫 How to reach me: alamincsetpi@gmail.com.
 - ⚡ Fun fact: Love Coding,Eating,playing Cricket & Football.
 
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Laravel,PHP,MySQL,Javascript,HTML5,CSS,Bootstrap,PSD to HTML
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developeralamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/developeralamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16975176/al-amin-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCVEvWZ0H7jzV7W4WqqYlm6g)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=developeralamin)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developeralamin)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developeralamin&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developeralamin)  
+
+![GitHub metrics](https://metrics.lecoq.io/developeralamin)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=developeralamin)  
+
+![Profile views](https://gpvc.arturio.dev/developeralamin)  
