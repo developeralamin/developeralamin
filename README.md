@@ -14,10 +14,9 @@ I'm a Student, Web Developer and Critical Thinker!
 
 
 ## SKILLS & EXPERIENCE: <br>
-✅ LARAVEL / PHP / Javascript / jQuery  <br>
-✅ HTML5 / CSS3  / BOOTSTRAP /PSD to HTML<br>
-✅ SSLCOMMERZE PAYMENT GATEWAY / STRIPE PAYMENT GATEWAY  <br>
-✅ MYSQL / GIT <br>
+✅ LARAVEL / Basic PHP / OOP in PHP/ Javascript   <br>
+✅ HTML5 / CSS3  / BOOTSTRAP / PSD to HTML<br>
+✅ MYSQL / vGIT <br>
 
 - 🔭 I’m currently working on this page. 
 
