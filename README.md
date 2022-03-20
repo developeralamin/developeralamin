@@ -14,7 +14,7 @@ I'm a Student, Web Developer and Critical Thinker!
 
 
 ## SKILLS & EXPERIENCE: <br>
-✅ LARAVEL / Basic PHP / OOP in PHP/ Javascript   <br>
+✅ LARAVEL /  PHP / OOP in PHP/ Javascript / Vue.JS / API  <br>
 ✅ HTML5 / CSS3  / BOOTSTRAP / PSD to HTML<br>
 ✅ MYSQL / GIT <br>
 
