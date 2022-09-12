@@ -20,5 +20,5 @@ I'm a Student, Web Developer and Critical Thinker!
 
 - 🔭 I’m currently working on this page. 
 
-
+![Profile views](https://gpvc.arturio.dev/developeralamin)  
 
