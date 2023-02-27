@@ -1,11 +1,12 @@
 <h1 style="margin-left:20px;"class="text-center">Hi there 👋</h1>
 
+Hi, I am AlAmin Islam 
 
+I'm FullStack Developer!
 
-I'm a Student, Web Developer and Critical Thinker!
-
-- 🔭 I’m currently working on Web Application Developer in LARAVEL.
-- 🌱 I’m currently learning Programming.
+- 🔭 I’m currently working on FullStack Developer With Laravel API and VueJs.
+- 🌱 I’m following coding Best practise and PSR-Guidelines.
+- 🌱 I’m currently learning cloud technologies and Linux, Virtualization.
 - 👯 I’m looking to collaborate on with other Developer.
 - 🤔 I’m looking for help with anyone problem.
 - 💬 Ask me about I'll be happy to help you.
@@ -14,9 +15,10 @@ I'm a Student, Web Developer and Critical Thinker!
 
 
 ## SKILLS & EXPERIENCE: <br>
-✅ LARAVEL /  PHP / OOP in PHP/ Javascript / Vue.JS / API  <br>
+✅ LARAVEL /  PHP / OOP in PHP/ Javascript / Vue.JS / API / Ant Design  <br>
 ✅ HTML5 / CSS3  / BOOTSTRAP / PSD to HTML<br>
-✅ MYSQL / GIT <br>
+✅ MYSQL / GIT / cPanel / Linux Virtualization <br>
+
 
 - 🔭 I’m currently working on this page. 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developeralamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/developeralamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16975176/al-amin-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCVEvWZ0H7jzV7W4WqqYlm6g)  
