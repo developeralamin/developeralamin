@@ -1,6 +1,5 @@
-<h1 style="margin-left:20px;"class="text-center">Hi there 👋</h1>
+<h1 style="margin-left:20px;"class="text-center">Hi there . I am AlAmin Islam 👋</h1>
 
-Hi, I am AlAmin Islam 
 
 I'm FullStack Developer!
 
