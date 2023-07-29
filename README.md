@@ -3,7 +3,7 @@
 
 I'm FullStack Developer!
 
-- 🔭 I’m currently working on FullStack Developer With Laravel API and VueJs.
+- 🔭 I’m currently working on FullStack Developer With Design & Development in Laravel API and VueJs.
 - 🌱 I’m following coding Best practise and PSR-Guidelines.
 - 🌱 I’m currently learning cloud technologies.
 - 👯 I’m looking to collaborate on with other Developer.
