@@ -14,7 +14,7 @@ I'm FullStack Developer!
 
 
 ## SKILLS & EXPERIENCE: <br>
-✅ LARAVEL /  PHP / OOP in PHP/ Javascript / Vue.JS / API / Ant Design  <br>
+✅ LARAVEL /  PHP / OOP in PHP/ Javascript / Vue.JS / API / API integration / Ant Design  <br>
 ✅ HTML5 / CSS3  / BOOTSTRAP / PSD to HTML<br>
 ✅ MYSQL / GIT / cPanel / Linux Virtualization <br>
 
