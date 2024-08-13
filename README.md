@@ -2,7 +2,7 @@
 
 
 
-I'm FullStack Developer!
+I'm FullStack Developer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 - 🌱 Currently working as Software Engineer
 - 🌱 I’m following coding Best practise.
@@ -11,9 +11,8 @@ I'm FullStack Developer!
 - 🤔 I’m looking for help with anyone problem.
 - 💬 Ask me about I'll be happy to help you.
 - 📫 How to reach me: alamincsetpi@gmail.com.
-- ⚡ Fun fact: Love Coding,Eating,playing Cricket & Football.   https://camo.githubusercontent.com/76a2215496244c72205e6dc8b524f17d53c4f9ad72a098d8449fc168506550fa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f323030772e77656270
-
-
+- ⚡ Fun fact: Love Coding,Eating,playing Cricket & Football.
+- 
 ## SKILLS & EXPERIENCE: <br>
 ✅ LARAVEL /  PHP / OOP in PHP/ Javascript / Vue.JS / API / API integration / Ant Design  <br>
 ✅ HTML5 / CSS3  / BOOTSTRAP / PSD to HTML<br>
