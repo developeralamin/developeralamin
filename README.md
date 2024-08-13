@@ -1,11 +1,6 @@
 <h1 style="margin-left:20px;"class="text-center">Hi there . I am AlAmin Islam 👋</h1>
 
 
-Programmation
-!
-
-
-
 
 I'm FullStack Developer!
 
@@ -16,7 +11,7 @@ I'm FullStack Developer!
 - 🤔 I’m looking for help with anyone problem.
 - 💬 Ask me about I'll be happy to help you.
 - 📫 How to reach me: alamincsetpi@gmail.com.
-- ⚡ Fun fact: Love Coding,Eating,playing Cricket & Football.
+- ⚡ Fun fact: Love Coding,Eating,playing Cricket & Football.   https://camo.githubusercontent.com/76a2215496244c72205e6dc8b524f17d53c4f9ad72a098d8449fc168506550fa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f323030772e77656270
 
 
 ## SKILLS & EXPERIENCE: <br>
