@@ -2,7 +2,7 @@
 
 
 
-I'm FullStack Developer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+I'm Software Developer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 - 🌱 Currently working as Software Engineer
 - 🌱 I’m following coding Best practise.
